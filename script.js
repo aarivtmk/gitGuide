@@ -1,3 +1,4 @@
+console.log("hello world");
 var email = document.getElementById("emailField");
 var submit_btn = document.getElementById("submitBtn");
 
